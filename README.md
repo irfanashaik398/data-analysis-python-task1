@@ -176,3 +176,6 @@ Through this project, I gained hands-on experience in:
 This project was completed as part of my internship to enhance my practical skills in data analysis using Python.
 
 ---
+Author
+
+Shaik Irfana (Data Science Intern)
